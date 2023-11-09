@@ -1,0 +1,8 @@
+C:/Users/jilee/Documents/JPL/349F/FPGA/Libero/Questasim/work_JS/jpl_foc_clarke_tb.sv {1 {vlog -work work -vopt -sv -stats=none C:/Users/jilee/Documents/JPL/349F/FPGA/Libero/Questasim/work_JS/jpl_foc_clarke_tb.sv
+QuestaSim-64 vlog 2023.1 Compiler 2023.01 Jan 23 2023
+-- Compiling module jpl_foc_clarke_tb
+
+Top level modules:
+	jpl_foc_clarke_tb
+
+} {} {}}

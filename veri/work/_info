@@ -1,0 +1,76 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2023.1 2023.01, Jan 23 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/jilee/Documents/JPL/349F/FPGA/Libero/Questasim/work_JS - Copy/veri
+T_opt
+!s110 1699566790
+V3<z`Y2n4C4IO1U@[`W5LY0
+04 17 4 work jpl_foc_clarke_tb fast 0
+=2-d08e79d608d6-654d54c5-27c-b320
+R0
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2023.1;77
+R1
+vjpl_foc_clarke
+Z3 2../rtl/jpl_foc_clarke.sv
+Z4 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z5 !s110 1699566830
+!i10b 1
+!s100 bB15:mkf4a906gZI^zj=T2
+IlZf3Sb_;>49V7mRlDBhlO0
+S1
+R1
+w1699562059
+8../rtl/jpl_foc_clarke.sv
+F../rtl/jpl_foc_clarke.sv
+!i122 3
+L0 65 116
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2023.1;77
+r1
+!s85 0
+31
+Z8 !s108 1699566830.000000
+!s107 ../rtl/jpl_foc_clarke.sv|
+!s90 -reportprogress|300|../rtl/jpl_foc_clarke.sv|+acc|
+!i113 0
+Z9 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vjpl_foc_clarke_tb
+R3
+R4
+R5
+!i10b 1
+!s100 6H8BPKc:Qjhkz?OS]PK_>3
+ID;i0=[]>f1<XzU:;L;M;l0
+S1
+R1
+w1699561779
+8jpl_foc_clarke_tb.sv
+Fjpl_foc_clarke_tb.sv
+!i122 2
+L0 38 86
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 jpl_foc_clarke_tb.sv|
+!s90 -reportprogress|300|jpl_foc_clarke_tb.sv|+acc|
+!i113 0
+R9
+R2
