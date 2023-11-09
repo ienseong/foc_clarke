@@ -2,10 +2,10 @@
 
 ## Overview
 
- <img src="https://github.com/ienseong/foc_clarke/assets/38596672/8da89fd5-006e-4527-a7b9-ce92e100a67c"  width="400" height="300"/> 
+ <img src="https://github.com/ienseong/foc_clarke/assets/38596672/b69dc1a7-e9bc-4489-bfa2-681763caf5f5"  width="400" height="300"/> 
  
 <!--
-<img src="https://github-fn.jpl.nasa.gov/storage/user/1098/files/3d43238c-9fa0-4bb5-82ed-3302bd398524"  width="400" height="300"/>
+<img src="https://github-fn.jpl.nasa.gov/storage/user/1098/files/a56fed26-25b7-4620-9e3b-eb6d6464b457"  width="400" height="300"/>
 -->
 
 
